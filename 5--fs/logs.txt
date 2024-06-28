@@ -1,0 +1,1 @@
+2024-06-28T09:58:03.222Z - DEBUG: Geofence entry detected, sending notification to the user

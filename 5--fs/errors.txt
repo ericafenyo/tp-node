@@ -1,0 +1,1 @@
+2024-06-28T09:58:03.229Z - ERROR: An error occurred while processing the geofence entry event
