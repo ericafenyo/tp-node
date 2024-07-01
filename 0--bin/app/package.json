@@ -4,13 +4,12 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "node-scriptjs"
+    "start": "print"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-script": "file:../node-script",
-    "readline": "^1.3.0"
+    "node-script": "file:../script"
   }
 }

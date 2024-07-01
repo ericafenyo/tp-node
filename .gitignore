@@ -1,2 +1,8 @@
-node_modules/
+#  SSL certificates
 ssl/
+
+# Dependency directories
+node_modules/
+
+# OS generated files
+.DS_Store
